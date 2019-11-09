@@ -1,6 +1,6 @@
-# INR_to_GBP
+# Currency Converter
 
-INR to GBP conversion rates by web scraping the website 
-https://www.exchangerates.org.uk/Pounds-to-Rupees-currency-conversion-page.html.
+Conversion rates by web scraping the website 
+https://www.exchangerates.org.uk
 
 Data is stored into mongoDB acting as a database.
